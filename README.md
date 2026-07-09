@@ -55,7 +55,6 @@ The objective of this application is to centralize company operations into a sec
 
 - Visual Studio Code
 - XAMPP
-- Postman
 - Git & GitHub
 
 ---
